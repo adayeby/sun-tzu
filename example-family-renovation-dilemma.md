@@ -2,7 +2,7 @@
 
 ## Prompt
 
-My family is renovating the house in (city redacted) countryside. I don't live with my family now and I am abroad, but in the future I may spend substantial time there. My grandparents, my parents, my father's brother's family will live there. They are thinking about giving me the third floor. An issue now is that they want ceramic tile flooring while I prefer wood or wood looking flooring. Should I insist that my 3rd floor room goes with wood flooring? Tbh I'm fine with ceramic tile because if the entire house is like that, aesthetically it's more consistent. Though I do prefer wood looking.
+My family is renovating the house in (city redacted) countryside. I don't live with my family now and I am abroad, but in the future I may spend substantial time there. My x, y and z (family members) will live there. They are thinking about giving me the third floor. An issue now is that they want ceramic tile flooring while I prefer wood or wood looking flooring. Should I insist that my 3rd floor room goes with wood flooring? Tbh I'm fine with ceramic tile because if the entire house is like that, aesthetically it's more consistent. Though I do prefer wood looking.
 
 ---
 
